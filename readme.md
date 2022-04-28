@@ -3,6 +3,7 @@
 #### Names:
 - Andres Fernando Rojas Pedroza
 - Diego Enrique Molina Sánchez
+#### Instructions:
 
-####Requirements:
+#### Requirements:
 Install gcc in your machine 
